@@ -1,5 +1,7 @@
 {
   "name": "GazCo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
